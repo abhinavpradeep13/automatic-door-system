@@ -33,6 +33,18 @@ When a person approaches the entrance, the IR sensor detects their presence. The
 
 > The image above shows the working prototype of the automatic door system with the LCD displaying a welcome message.
 
+### Circuit
+
+![Automatic Door System Circuit](images/circuit.jpeg)
+
+> The image above shows the circuit of the automatic door system.
+
+### Demonstration
+
+![Automatic Door System Demo](videos/demo.mp4)
+
+> The video above shows the working demonstration of the automatic door system.
+
 ---
 
 ## System Workflow
