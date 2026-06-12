@@ -145,7 +145,7 @@ Automatic-Door-System-PIC16F877A/
 │   └── demo.mp4
 │
 └── presentation/
-    └── Automatic_Door_System_Presentation.pptx
+    └── Automatic_door_system.pptx
 ```
 
 ---
@@ -204,7 +204,7 @@ A detailed presentation describing the project objectives, hardware interfacing,
 Presentation file:
 
 ```text
-presentation/Automatic_Door_System_Presentation.pptx
+presentation/Automatic_door_system.pptx
 ```
 
 ---
