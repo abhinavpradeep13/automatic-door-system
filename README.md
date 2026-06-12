@@ -223,15 +223,6 @@ This project provided practical experience in:
 
 ---
 
-## Authors
-
-* Abhinav
-* Harshith
-* Shravan
-* Maanas
-
----
-
 ## Conclusion
 
 The Automatic Door System successfully demonstrates the integration of sensing, decision-making, actuation, and user interaction using embedded systems technology. By combining an IR sensor, PIC16F877A microcontroller, servo motor, and LCD display into a working prototype, the project showcases the practical application of automation principles in real-world scenarios.
