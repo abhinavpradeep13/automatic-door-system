@@ -102,17 +102,17 @@ The project utilizes the **PIC16F877A**, an 8-bit RISC microcontroller featuring
 
 ### IR Sensor Module
 
-| Connection | PIC16F877A |
-| ---------- | ---------- |
-| VCC        | +5V        |
-| GND        | GND        |
-| OUT        | RB0        |
+| Connection | PIC16F877A      |
+| ---------- | ----------------|
+| VCC        | +5V             |
+| GND        | GND             |
+| OUT        | Pin 33 (RB-0 )  |
 
 ### Servo Motor
 
 | Connection  | PIC16F877A                         |
 | ----------- | ---------------------------------- |
-| Signal Wire | Control pin configured in firmware |
+| Signal Wire | Pin 17 (RC-2)                      |
 | VCC         | External +5V                       |
 | GND         | Common Ground                      |
 
@@ -120,8 +120,8 @@ The project utilizes the **PIC16F877A**, an 8-bit RISC microcontroller featuring
 
 | Connection  | PIC16F877A                                    |
 | ----------- | --------------------------------------------- |
-| SDA/Data    | Connected according to project implementation |
-| SCL/Control | Connected according to project implementation |
+| SDA/Data    | Pin 23 (RC-4)                                 |
+| SCL/Control | Pin 18 (RC-3)                                 |
 | VCC         | +5V                                           |
 | GND         | Common Ground                                 |
 
