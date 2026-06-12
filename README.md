@@ -41,7 +41,7 @@ When a person approaches the entrance, the IR sensor detects their presence. The
 
 ### Demonstration
 
-![Automatic Door System Demo](videos/demo.mp4)
+[▶️ Watch the project demonstration](videos/demo.mp4)
 
 > The video above shows the working demonstration of the automatic door system.
 
