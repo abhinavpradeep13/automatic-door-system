@@ -29,7 +29,7 @@ When a person approaches the entrance, the IR sensor detects their presence. The
 
 ### Hardware Prototype
 
-![Automatic Door System Prototype](images/prototype_front.jpg)
+![Automatic Door System Prototype](images/open.jpg)
 
 > The image above shows the working prototype of the automatic door system with the LCD displaying a welcome message.
 
@@ -137,12 +137,12 @@ Automatic-Door-System-PIC16F877A/
 │       └── nbproject/
 │
 ├── images/
-│   ├── prototype_front.jpg
-│   ├── lcd_display.jpg
-│   └── hardware_setup.jpg
+│   ├── open.jpg
+│   ├── close.jpg
+│   └── circuit.jpg
 │
 ├── videos/
-│   └── demo_video_link.txt
+│   └── demo.mp4
 │
 └── presentation/
     └── Automatic_Door_System_Presentation.pptx
