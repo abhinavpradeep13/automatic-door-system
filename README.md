@@ -29,7 +29,7 @@ When a person approaches the entrance, the IR sensor detects their presence. The
 
 ### Hardware Prototype
 
-![Automatic Door System Prototype](images/open.jpg)
+![Automatic Door System Prototype](images/open.jpeg)
 
 > The image above shows the working prototype of the automatic door system with the LCD displaying a welcome message.
 
